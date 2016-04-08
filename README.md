@@ -59,3 +59,4 @@ Before attempting [the assignment](https://github.com/bitmakerlabs/chinook/blob/
 And in the corresponding Rails models:
 ![](erd.png)
 
+# sqlandactiverecordqueries
